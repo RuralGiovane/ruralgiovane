@@ -10,7 +10,8 @@
   [![card](https://github-readme-stats.vercel.app/api?username=ruralgiovane&theme=shadow_red&show_icons=true)](https://github.com/ruralgiovane/)
   <br>
   <br>
-  [![ruralgiovane](https://github-readme-stats.vercel.app/api/top-langs/?username=ruralgiovane&layout=compact&theme=shadow_red&show_icons=true)](https://github.com/ruralgiovane/github-readme-stats)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruralgiovane&anuraghazra&layout=compact&theme=shadow_red&hide_progress=true)
+
 
 ##
   
