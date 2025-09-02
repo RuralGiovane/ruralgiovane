@@ -1,11 +1,13 @@
-# Eai! Me chamo Giovane Amato! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Audiowide&size=30&duration=3000&pause=900&color=F70000&background=FF000000&center=true&vCenter=true&width=200&height=25&lines=Bem+vindo+)](https://git.io/typing-svg) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
 
 - 🎓 Estou estudando ADS
 - :tada: Tenho 18 anos
 - 📚 Estudante de Análise e Desenvolvimento do Sistemas - FIAP
 - ✉️ meu e-mail: giovaneamatogmail.com
+
+##
+### Meus Status 
 
   [![card](https://github-readme-stats.vercel.app/api?username=ruralgiovane&theme=shadow_red&show_icons=true)](https://github.com/ruralgiovane/)
   <br>
@@ -28,9 +30,10 @@
 
 ##
 
-### Meus contatos 📱
+### Minhas redes 📱
   
 <div> 
-  <a href = "mailto:giovaneamato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="[https://www.linkedin.com/in/giovane-amato-276217306]" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href = "mailto:giovaneamato@gmail.com"><img src="l&logohttps://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmaiColor=white" target="_blank"></a>
+  <a href="[https://www.linkedin.com/in/giovane-amato-276217306]" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="
 </div>
