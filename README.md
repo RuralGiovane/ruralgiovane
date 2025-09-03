@@ -19,21 +19,22 @@
   
 ### Minhas Habilidades 🧑‍💻
 <div style="display: inline"><br>
-  <img align="center" alt="RuralGiovane-HTML" height="30" width="40" margin-top="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="RuralGiovane-CSS" height="30" width="40" margin-top="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="RuralGiovane-JS" height="30" width="40" margin-top="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="RuralGiovane-Python" height="30" width="40" margin-top="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="RuralGiovane-MySQL" height="30" width="40" margin-top="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="RuralGiovane-HTML" height="30" width="40" margin-top="10" src="tecnology-images/html.png">
+  <img align="center" alt="RuralGiovane-CSS" height="30" width="40" margin-top="10" src="tecnology-images/css-3.png">
+  <img align="center" alt="RuralGiovane-JS" height="30" width="40" margin-top="10" src="tecnology-images/js.png">
+  <img align="center" alt="RuralGiovane-Python" height="30" width="40" margin-top="10" src="tecnology-images/python.png">
+  <img align="center" alt="RuralGiovane-OracleSQLDevloper" height="30" width="40" margin-top="10" src="tecnology-images/sql-developer-icon.png" />
   <img align="center" alt="RuralGiovane-Vscode" height="30" width="40" margin-top="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align="center" alt="RuralGiovane-Figma" height="30" width="40" margin-top="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img align="center" alt="RuralGiovane-Figma" height="30" width="40" margin-top="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />  
+  <img align="center" alt="RuralGiovane-Figma" height="30" width="40" margin-top="10" src="tecnology-images/figma.png" />
+  <img align="center" alt="RuralGiovane-Git" height="30" width="40" margin-top="10" src="tecnology-images/Git-Icon.png" />  
 
 ##
 
 ### Minhas redes 📱
   
 <div> 
-  <a href = "mailto:giovaneamato@gmail.com"><img src="l&logohttps://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmaiColor=white" target="_blank"></a>
-  <a href="[https://www.linkedin.com/in/giovane-amato-276217306]" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="
+  <a href = "mailto:giovaneamato@gmail.com"><img src="social-media-images/email.png" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/giovane-amato-276217306" target="_blank"><img src="social-media-images/instagram.png" target="_blank"></a>
+  <a href="https://www.instagram.com/rural_giovane" target="_blank"><img src="social-media-images/instagram.png"> </a>
+  <a href="https://github.com/RuralGiovane" target="_blank"> <img src="social-media-images/github.png">
 </div>
