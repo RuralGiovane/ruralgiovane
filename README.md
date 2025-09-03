@@ -23,7 +23,7 @@
   <img align="center" alt="RuralGiovane-CSS" height="30" width="30" margin-top="10" src="tecnology-images/css-3.png">
   <img align="center" alt="RuralGiovane-JS" height="30" width="30" margin-top="10" src="tecnology-images/js.png">
   <img align="center" alt="RuralGiovane-Python" height="30" width="30" margin-top="10" src="tecnology-images/python.png">
-  <img align="center" alt="RuralGiovane-OracleSQLDevloper" height="30" width="30" margin-top="10" src="tecnology-images/sql-developer-icon.png" />
+  <img align="center" alt="RuralGiovane-OracleSQLDevloper" height="50" width="50" margin-top="10" src="tecnology-images/oracle-sql-icon.png" />
   <img align="center" alt="RuralGiovane-Vscode" height="30" width="30" margin-top="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="RuralGiovane-Figma" height="30" width="30" margin-top="10" src="tecnology-images/figma.png" />
   <img align="center" alt="RuralGiovane-Git" height="30" width="30" margin-top="10" src="tecnology-images/Git-Icon.png" />  
