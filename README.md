@@ -34,7 +34,7 @@
   
 <div> 
   <a href = "mailto:giovaneamato@gmail.com"><img src="social-media-images/email.png" height="40" width="40" margin-top="10" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/giovane-amato-276217306" target="_blank"><img src="social-media-images/linkedin.png" height="40" width="40" margin-top="10"></a>
-  <a href="https://www.instagram.com/rural_giovane" target="_blank"><img src="social-media-images/instagram.png" height="40" width="40" margin-top="10"></a>
-  <a href="https://github.com/RuralGiovane" target="_blank"> <img src="social-media-images/github.png" height="40" width="40" margin-top="10" margin-right="10"> </a>
+  <a href="https://www.linkedin.com/in/giovane-amato-276217306"><img src="social-media-images/linkedin.png" height="40" width="40" margin-top="10" target="_blank"></a>
+  <a href="https://www.instagram.com/rural_giovane"><img src="social-media-images/instagram.png" height="40" width="40" margin-top="10" target="_blank"></a>
+  <a href="https://github.com/RuralGiovane"><img src="social-media-images/github.png" height="40" width="40" margin-top="10" margin-right="10" target="_blank"></a>
 </div>
