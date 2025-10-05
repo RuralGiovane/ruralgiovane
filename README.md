@@ -1,10 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Audiowide&size=30&duration=3000&pause=900&color=F70000&background=FF000000&center=true&vCenter=true&width=200&height=25&lines=Bem+vindo+)](https://git.io/typing-svg) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
 
-- 🎓 Estou estudando ADS
 - :tada: Tenho 18 anos
 - 📚 Estudante de Análise e Desenvolvimento do Sistemas - FIAP
-- ✉️ meu e-mail: giovaneamatogmail.com
+- ✉️ Meu e-mail: giovaneamatogmail.com
 
 ##
 ### Meus Status 
